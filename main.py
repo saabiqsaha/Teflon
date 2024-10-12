@@ -17,7 +17,7 @@ with col2:
 
 st.header("upload an image of an ultrasound scan of a breast tissue")
 #set header
-st.text('By Mohammed Saabiq Saha')
+st.text('By Osman Iddrisu')
 
 #upload file
 file = st.file_uploader('', type=['jpeg', 'jpg', 'png'])
